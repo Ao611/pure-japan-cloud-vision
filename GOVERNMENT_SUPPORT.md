@@ -7,7 +7,7 @@
     - [経済産業省：経済安全保障推進法に基づく特定重要物資の供給確保について](https://www.meti.go.jp/policy/economy/economic_security/cloud/index.html)
     - クラウドが「特定重要物資」に指定されており、国内基盤の整備に巨額の助成が出る枠組みです。
 - **経済安全保障重要技術育成プログラム（Kプログラム）**
-    - [内閣府：経済安全保障重要技術育成プログラム](https://www8.cao.go.jp/cstp/stmain/kprogram.html)
+    - [内閣府：経済安全保障重要技術育成プログラム](https://www8.cao.go.jp/cstp/anzen_anshin/kprogram.html)
     - **先端的な重要技術**の研究開発を支援する制度です。次世代コンピューティング、革新的なネットワーク技術などが対象となり得ます。
 
 ## 2. 経済産業省・デジタル庁の主要施策
@@ -20,7 +20,7 @@
 
 ## 3. 研究開発・次世代インフラ支援（NEDO等）
 - **ポスト5G情報通信システム基盤強化研究開発事業**
-    - [NEDO：ポスト5G情報通信システム基盤強化研究開発事業](https://www.nedo.go.jp/activities/ZZJP2_100172.html)
+    - [NEDO：ポスト5G情報通信システム基盤強化研究開発事業](https://www.nedo.go.jp/activities/ZZJP_100172.html)
     - 国産半導体（RISC-Vなど）や、クラウドOSの高度化、省エネ化に直結する公募が行われます。
 
 ## 4. セキュリティ基準・制度
