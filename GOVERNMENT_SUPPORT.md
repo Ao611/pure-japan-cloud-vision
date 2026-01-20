@@ -4,7 +4,7 @@
 
 ## 1. 経済安全保障推進法に基づく支援
 - **特定重要物資（クラウドプログラム）の供給確保計画**
-    - [経済産業省：経済安全保障推進法に基づく特定重要物資の供給確保について](https://www.meti.go.jp/policy/economy/economic_security/genshizai/index.html)
+    - [経済産業省：経済安全保障推進法に基づく特定重要物資の供給確保について](https://www.meti.go.jp/policy/economy/economic_security/cloud/index.html)
     - クラウドが「特定重要物資」に指定されており、国内基盤の整備に巨額の助成が出る枠組みです。
 - **経済安全保障重要技術育成プログラム（Kプログラム）**
     - [内閣府：経済安全保障重要技術育成プログラム](https://www8.cao.go.jp/cstp/stmain/kprogram.html)
